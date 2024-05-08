@@ -1,2 +1,8 @@
-# robot-rental
-# JavaScript website, click on this link for deployment: https://thuduongnguyen.github.io/robot-rental/
+# Robot Rental Website
+
+This is a JavaScript-based website for robot rental.
+
+## Deployment
+
+You can access the deployed version of this website [here](https://thuduongnguyen.github.io/robot-rental/).
+
