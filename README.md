@@ -2,11 +2,11 @@
 
 This is a JavaScript-based website for robot rental.
 
-## Deployment
+### Deployment
 
-Link https://thuduongnguyen.github.io/robot-rental/
+Link: https://thuduongnguyen.github.io/robot-rental/
 
-## Technologies Used
+### Technologies Used
 
 - HTML
 - CSS
